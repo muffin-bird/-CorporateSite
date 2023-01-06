@@ -1,2 +1,1 @@
-# -CorporateSite
-Template
+# Preparation 
